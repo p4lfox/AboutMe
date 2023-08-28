@@ -15,11 +15,6 @@ Hello, I've been dealing with computers for 6-7 years. In this process, I will u
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=p4lfox&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=p4lfox&limit=5&theme=discord&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
