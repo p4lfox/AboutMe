@@ -17,6 +17,16 @@ Hello, I've been dealing with computers for 6-7 years. In this process, I will u
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=p4lfox&icon=2&color=10)](https://visitcount.itsvg.in)
+                                                                              
+88888888ba   88888888888  88           88888888888  ,ad8888ba,  8b        d8  
+88      "8b  88           88           88          d8"'    `"8b  Y8,    ,8P   
+88      ,8P  88           88           88         d8'        `8b  `8b  d8'    
+88aaaaaa8P'  88aaaaa      88           88aaaaa    88          88    Y88P      
+88""""""'    88"""""      88           88"""""    88          88    d88b      
+88           88           88           88         Y8,        ,8P  ,8P  Y8,    
+88           88           88           88          Y8a.    .a8P  d8'    `8b   
+88           88888888888  88888888888  88           `"Y8888Y"'  8P        Y8  
+                                                                              
+                                                                              
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
