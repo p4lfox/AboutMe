@@ -16,15 +16,5 @@ Hello, I've been dealing with computers for 6-7 years. In this process, I will u
 ![](https://github-profile-trophy.vercel.app/?username=p4lfox&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 
----
-<p>
-             _  __           
-  _ __   ___| |/ _| _____  __
- | '_ \ / _ \ | |_ / _ \ \/ /
- | |_) |  __/ |  _| (_) >  < 
- | .__/ \___|_|_|  \___/_/\_\
- |_|                     
-</p>                                                                              
-                                                                              
 
 
